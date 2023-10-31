@@ -38,7 +38,6 @@ nav ul li a {
 }
 
 .background-image {
-    background-image: url('C:\Users\manir\Documents\shiva.jpg'); /* Add your background image URL here */
     background-size: cover;
     background-position: center;
     position: absolute;
